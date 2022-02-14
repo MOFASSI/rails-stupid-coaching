@@ -1,0 +1,24 @@
+// Place all the styles related to the answers controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+.messages p{
+  font-size: 1rem;
+  padding-left: 2rem;
+  margin: 1rem;
+  text-align: center;
+}
+.messages{
+  border: 1px solid grey ;
+  border-radius: 0.75rem;
+  margin: 1rem;
+}
+body{
+  background-color: rgb(243, 242, 242);
+}
+.btn{
+  border: 1px solid grey ;
+  border-radius: 0.75rem;
+  text-decoration: none;
+  padding: 8px;
+  margin: 16px;
+}
